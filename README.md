@@ -1,1 +1,1 @@
-# My_Distributed_System
+# Symmetric Key Encryption Sample
