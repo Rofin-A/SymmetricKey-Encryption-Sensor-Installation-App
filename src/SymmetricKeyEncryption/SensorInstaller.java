@@ -7,7 +7,7 @@
 *  InstallerServer.Java Class. Based on the instance, installers authorization 
 *  for relocating the sensor will be assesed
 -------------------------------------------------------------------------------*/
-package project2task1;
+package SymmetricKeyEncryption;
 
 public abstract class SensorInstaller {
 // ---------------------Global Variables------------------------   

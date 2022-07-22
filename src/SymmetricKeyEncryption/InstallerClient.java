@@ -11,7 +11,7 @@ will not update the details sent and will return an error message
 will not update the details sent and will return an error message stating the 
 reason for failure
 -------------------------------------------------------------------------------*/
-package project2task1;
+package SymmetricKeyEncryption;
 
 /**
  *

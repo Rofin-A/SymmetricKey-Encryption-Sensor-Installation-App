@@ -24,7 +24,7 @@
  * You should have received a copy of the GNU Lesser General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
-package project2task1;
+package SymmetricKeyEncryption;
 
 public class TEA {
 	private final static int SUGAR = 0x9E3779B9;

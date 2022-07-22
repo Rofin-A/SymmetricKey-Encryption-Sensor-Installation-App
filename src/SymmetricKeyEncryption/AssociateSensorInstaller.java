@@ -7,7 +7,7 @@
 *  in the InstallerServer.Java Class. Based on the instance the installers 
 *  authorization for relocating the sensor will be assesed
 -------------------------------------------------------------------------------*/
-package project2task1;
+package SymmetricKeyEncryption;
 
 public class AssociateSensorInstaller extends SensorInstaller{
     // --------------------------Constructor------------------------

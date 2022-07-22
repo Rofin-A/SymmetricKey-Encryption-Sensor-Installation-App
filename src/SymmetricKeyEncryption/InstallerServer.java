@@ -13,7 +13,7 @@ and also generates a KML in the desktop with the co-ordinates of sensors install
 In case of any failure, server will not carry any update and will send back an
 error message and close the connection.
 -------------------------------------------------------------------------------*/
-package project2task1;
+package SymmetricKeyEncryption;
 
 import java.net.*;
 import java.io.*;

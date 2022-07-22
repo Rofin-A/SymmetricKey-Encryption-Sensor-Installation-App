@@ -8,7 +8,7 @@
    which will take raw password as input and compare it with the hashed salt and
    password combination to validate the credentials of the user
 -------------------------------------------------------------------------------*/
-package project2task1;
+package SymmetricKeyEncryption;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

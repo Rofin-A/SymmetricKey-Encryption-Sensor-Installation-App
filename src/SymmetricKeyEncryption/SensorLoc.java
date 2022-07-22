@@ -6,7 +6,7 @@
 *  Purpose: This class will be used by InstallerServer.Java to hold the state of
    server locations
 -------------------------------------------------------------------------------*/
-package project2task1;
+package SymmetricKeyEncryption;
 
 // This class is create to hold the instances of installed sensors
 public class SensorLoc {
